@@ -1,0 +1,334 @@
+.category4-child {
+  position: absolute;
+  top: 102px;
+  left: -36px;
+  width: 1476px;
+  height: 695px;
+}
+.get-various-services4 {
+  margin-block-start: 0;
+  margin-block-end: 5.4px;
+}
+.for-your-pets4 {
+  margin: 0;
+}
+.get-various-services-container4 {
+  position: absolute;
+  top: 908px;
+  left: 165px;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.taking-care-for4 {
+  position: absolute;
+  top: 404px;
+  left: calc(50% - 2033px);
+  font-size: var(--font-size-77xl);
+  letter-spacing: 0.05em;
+}
+.group-icon31 {
+  width: 64.8px;
+  position: relative;
+  height: 67.2px;
+  object-fit: contain;
+}
+.local4 {
+  color: var(--color-gold);
+}
+.glocal4 {
+  position: relative;
+}
+.group-parent17 {
+  width: 129px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.categories5 {
+  position: relative;
+  font-weight: 600;
+  color: var(--color-orange);
+}
+.home-parent2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.sign-in4 {
+  position: relative;
+  font-weight: 500;
+}
+.btn-register4,
+.btn-signin5 {
+  width: 146px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  height: 49px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.btn-register4 {
+  background-color: var(--color-powderblue);
+  color: var(--color-darkslategray);
+}
+.btn-signin-parent2,
+.frame-parent10 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame-parent10 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 711.1px);
+  background-color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-29xl);
+  gap: var(--gap-83xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-orange);
+  font-family: var(--font-roboto);
+}
+.unsplash5pvxkqt2s9k-icon4,
+.unsplashbjaqpah6agq-icon4 {
+  position: absolute;
+  top: 1006.2px;
+  left: 601.8px;
+  width: 433.4px;
+  height: 437.6px;
+  object-fit: contain;
+}
+.unsplash5pvxkqt2s9k-icon4 {
+  top: 943px;
+  left: 382.6px;
+  width: 491.8px;
+  height: 480px;
+}
+.unsplashmv9hjneuhr4-icon4,
+.unsplashzchj-2ljp00-icon6 {
+  position: absolute;
+  top: 1169.5px;
+  left: 471.4px;
+  width: 451.6px;
+  height: 418.1px;
+  object-fit: contain;
+}
+.unsplashzchj-2ljp00-icon6 {
+  top: 1080px;
+  left: 321.1px;
+  width: 416px;
+  height: 405.6px;
+}
+.category4-item,
+.unsplasheoqnr8ikwfe-icon4 {
+  position: absolute;
+  top: 1250.8px;
+  left: 90px;
+  width: 716.6px;
+  height: 661.3px;
+  object-fit: contain;
+}
+.category4-item {
+  top: -461px;
+  left: 669px;
+  width: 2004.6px;
+  height: 2120.2px;
+}
+.group-icon32 {
+  width: 38.9px;
+  position: relative;
+  height: 40.3px;
+  object-fit: contain;
+}
+.group-parent18,
+.group-parent19 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.group-parent18 {
+  width: 176px;
+  border-radius: var(--br-xs);
+  height: 40px;
+}
+.group-parent19 {
+  width: 143px;
+}
+.group-parent20 {
+  width: 160px;
+  gap: var(--gap-10xs);
+}
+.frame-parent11,
+.group-parent20,
+.group-parent21 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+}
+.group-parent21 {
+  width: 159px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  gap: var(--gap-10xs);
+  color: var(--color-white);
+}
+.frame-parent11 {
+  position: absolute;
+  top: 567px;
+  left: 58px;
+  width: 674px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.categories6,
+.pet-training5 {
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.categories6 {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 613px);
+}
+.pet-training5 {
+  position: relative;
+}
+.pet-training-encompasses {
+  width: 667px;
+  position: relative;
+  letter-spacing: 0.05em;
+  display: inline-block;
+}
+.btn-signin6 {
+  width: 146px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-powderblue);
+  height: 49px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+}
+.pet-training-parent {
+  position: absolute;
+  top: 260px;
+  left: 107px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.ellipse-icon {
+  position: absolute;
+  top: 46.5px;
+  left: 1.9px;
+  width: 6.8px;
+  height: 8.5px;
+}
+.click {
+  position: absolute;
+  top: -1px;
+  left: 18px;
+  letter-spacing: 0.2em;
+  font-weight: 600;
+  transform: rotate(90deg);
+  transform-origin: 0 0;
+}
+.vector-icon6,
+.vector-parent {
+  position: absolute;
+  top: 45px;
+  left: 0;
+  width: 16.8px;
+  height: 24px;
+}
+.vector-parent {
+  top: 685px;
+  left: 52px;
+  width: 17px;
+  height: 75px;
+  text-align: center;
+  font-size: 14px;
+  font-family: var(--font-crimson-text);
+}
+.group-icon36,
+.paw-icon4 {
+  max-width: 100%;
+  overflow: hidden;
+}
+.paw-icon4 {
+  position: absolute;
+  height: 8.53%;
+  width: 5.35%;
+  top: 69.78%;
+  right: 66.24%;
+  bottom: 21.69%;
+  left: 28.4%;
+  max-height: 100%;
+  object-fit: contain;
+}
+.group-icon36 {
+  height: 9.54%;
+  width: 5.76%;
+  top: 83.11%;
+  right: 82.58%;
+  bottom: 7.34%;
+  left: 11.67%;
+}
+.group-icon36,
+.group-icon37,
+.group-icon38 {
+  position: absolute;
+  max-height: 100%;
+  object-fit: contain;
+}
+.group-icon37 {
+  height: 9.04%;
+  top: 86.11%;
+  bottom: 4.84%;
+  left: calc(50% + 40px);
+  width: 78.6px;
+}
+.group-icon38 {
+  height: 11.13%;
+  width: 6.49%;
+  top: 83.11%;
+  right: 0.6%;
+  bottom: 5.76%;
+  left: 92.92%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.category4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display);
+}

@@ -1,0 +1,335 @@
+.category3-child {
+  position: absolute;
+  top: 102px;
+  left: -36px;
+  width: 1476px;
+  height: 695px;
+}
+.get-various-services3 {
+  margin-block-start: 0;
+  margin-block-end: 5.4px;
+}
+.for-your-pets3 {
+  margin: 0;
+}
+.get-various-services-container3 {
+  position: absolute;
+  top: 908px;
+  left: 165px;
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.taking-care-for3 {
+  position: absolute;
+  top: 404px;
+  left: calc(50% - 2033px);
+  font-size: var(--font-size-77xl);
+  letter-spacing: 0.05em;
+}
+.group-icon23 {
+  width: 64.8px;
+  position: relative;
+  height: 67.2px;
+  object-fit: contain;
+}
+.local3 {
+  color: var(--color-gold);
+}
+.glocal3 {
+  position: relative;
+}
+.group-parent12 {
+  width: 129px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.categories3 {
+  position: relative;
+  font-weight: 600;
+  color: var(--color-orange);
+}
+.home-parent1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-xl);
+  color: var(--color-black);
+}
+.btn-register3,
+.btn-signin3 {
+  width: 146px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-darkslategray);
+  height: 49px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+.btn-register3 {
+  background-color: var(--color-powderblue);
+  color: var(--color-darkslategray);
+}
+.btn-signin-parent1,
+.frame-parent7 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-21xl);
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+}
+.frame-parent7 {
+  position: absolute;
+  top: 0;
+  left: calc(50% - 711.1px);
+  background-color: var(--color-white);
+  align-items: center;
+  justify-content: center;
+  padding: var(--padding-xl) var(--padding-29xl);
+  gap: var(--gap-83xl);
+  font-size: var(--font-size-13xl);
+  color: var(--color-orange);
+  font-family: var(--font-roboto);
+}
+.unsplash5pvxkqt2s9k-icon3,
+.unsplashbjaqpah6agq-icon3 {
+  position: absolute;
+  top: 1006.2px;
+  left: 601.8px;
+  width: 433.4px;
+  height: 437.6px;
+  object-fit: contain;
+}
+.unsplash5pvxkqt2s9k-icon3 {
+  top: 943px;
+  left: 382.6px;
+  width: 491.8px;
+  height: 480px;
+}
+.unsplashmv9hjneuhr4-icon3,
+.unsplashzchj-2ljp00-icon5 {
+  position: absolute;
+  top: 1169.5px;
+  left: 471.4px;
+  width: 451.6px;
+  height: 418.1px;
+  object-fit: contain;
+}
+.unsplashzchj-2ljp00-icon5 {
+  top: 1080px;
+  left: 321.1px;
+  width: 416px;
+  height: 405.6px;
+}
+.category3-item,
+.unsplasheoqnr8ikwfe-icon3 {
+  position: absolute;
+  top: 1250.8px;
+  left: 90px;
+  width: 716.6px;
+  height: 661.3px;
+  object-fit: contain;
+}
+.category3-item {
+  top: -414px;
+  left: 641px;
+  width: 2114.6px;
+  height: 2118.1px;
+}
+.group-icon24 {
+  width: 38.9px;
+  position: relative;
+  height: 40.3px;
+  object-fit: contain;
+}
+.group-parent13 {
+  width: 176px;
+  border-radius: var(--br-xs);
+  height: 40px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.group-parent14 {
+  width: 143px;
+}
+.frame-parent8,
+.group-parent14,
+.group-parent15,
+.group-parent16 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-10xs);
+}
+.group-parent15 {
+  width: 160px;
+  border-radius: var(--br-7xs);
+  background-color: var(--color-darkslategray);
+  color: #fff2f2;
+}
+.frame-parent8,
+.group-parent16 {
+  width: 159px;
+}
+.frame-parent8 {
+  position: absolute;
+  top: 567px;
+  left: 58px;
+  width: 674px;
+  gap: var(--gap-xs);
+  font-size: var(--font-size-xl);
+  font-family: var(--font-roboto);
+}
+.categories4 {
+  position: absolute;
+  top: 125px;
+  left: calc(50% - 613px);
+  letter-spacing: 0.05em;
+  text-align: center;
+}
+.pet-daycare-offers,
+.pet-daycare4 {
+  position: relative;
+  letter-spacing: 0.05em;
+}
+.pet-daycare4 {
+  text-align: center;
+}
+.pet-daycare-offers {
+  width: 667px;
+  display: inline-block;
+}
+.get-started {
+  position: relative;
+  font-weight: 500;
+}
+.btn-signin4,
+.pet-daycare-parent {
+  display: flex;
+  flex-direction: column;
+}
+.btn-signin4 {
+  width: 146px;
+  border-radius: var(--br-8xs);
+  background-color: var(--color-powderblue);
+  height: 49px;
+  align-items: center;
+  justify-content: center;
+  font-size: var(--font-size-base);
+  color: var(--color-darkslategray);
+}
+.pet-daycare-parent {
+  position: absolute;
+  top: 260px;
+  left: 107px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-sm);
+  font-size: var(--font-size-5xl);
+  font-family: var(--font-roboto);
+}
+.scroll3 {
+  position: relative;
+  letter-spacing: -0.07em;
+  transform: rotate(90deg);
+}
+.vector-icon5 {
+  width: 16.8px;
+  position: relative;
+  height: 24px;
+}
+.scroll-parent1 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  gap: var(--gap-8xs);
+}
+.frame-child11 {
+  width: 0;
+  position: relative;
+  height: 13px;
+  object-fit: contain;
+}
+.frame-parent9 {
+  position: absolute;
+  top: 705px;
+  left: 52px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-3xs);
+  text-align: center;
+  font-size: var(--font-size-3xs);
+  font-family: var(--font-avenir-lt-std);
+}
+.food-icon1,
+.group-icon28 {
+  position: absolute;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.group-icon28 {
+  height: 11.13%;
+  width: 6.49%;
+  top: 79.67%;
+  right: 83.93%;
+  bottom: 9.2%;
+  left: 9.58%;
+  object-fit: contain;
+}
+.food-icon1 {
+  height: 5.33%;
+  width: 5.06%;
+  top: 71.22%;
+  right: 65.99%;
+  bottom: 23.44%;
+  left: 28.96%;
+}
+.group-icon29,
+.group-icon30 {
+  position: absolute;
+  max-height: 100%;
+  object-fit: contain;
+}
+.group-icon29 {
+  height: 9.04%;
+  top: 86%;
+  bottom: 4.96%;
+  left: calc(50% + 53px);
+  width: 78.6px;
+}
+.group-icon30 {
+  height: 6.16%;
+  width: 5.34%;
+  top: 86.22%;
+  right: 3.06%;
+  bottom: 7.62%;
+  left: 91.6%;
+  max-width: 100%;
+  overflow: hidden;
+}
+.category3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 900px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-21xl);
+  color: var(--color-black);
+  font-family: var(--font-playfair-display);
+}
